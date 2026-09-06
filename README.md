@@ -1,0 +1,1 @@
+Token-length diagnostic: 99.44% of resumes exceed 256 tokens, with a median length of 1,029 tokens. Therefore, direct single-pass encoding would cause substantial truncation. The pipeline uses overlapping chunks and aggregates their embeddings into a single 384-dimensional representation per resume.
