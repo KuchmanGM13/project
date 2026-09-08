@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Backend Developer",
+    "category": "INFORMATION-TECHNOLOGY",
+    "required_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "REST API",
+      "Git"
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "category": "INFORMATION-TECHNOLOGY",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Excel",
+      "Data Visualization"
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "category": "INFORMATION-TECHNOLOGY",
+    "required_skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Linux",
+      "AWS"
+    ]
+  },
+  {
+    "title": "Mechanical Engineer",
+    "category": "ENGINEERING",
+    "required_skills": [
+      "AutoCAD",
+      "SolidWorks",
+      "Mechanical Design",
+      "CAD",
+      "3D Modeling"
+    ]
+  },
+  {
+    "title": "Electrical Engineer",
+    "category": "ENGINEERING",
+    "required_skills": [
+      "Circuit Design",
+      "AutoCAD",
+      "MATLAB",
+      "Electrical Systems",
+      "PLC"
+    ]
+  },
+  {
+    "title": "Civil Engineer",
+    "category": "ENGINEERING",
+    "required_skills": [
+      "AutoCAD",
+      "Structural Design",
+      "Construction",
+      "Project Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "title": "Financial Analyst",
+    "category": "FINANCE",
+    "required_skills": [
+      "Financial Modeling",
+      "Excel",
+      "Financial Analysis",
+      "Forecasting",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Accountant",
+    "category": "FINANCE",
+    "required_skills": [
+      "Accounting",
+      "Bookkeeping",
+      "Excel",
+      "Tax Preparation",
+      "Financial Statements"
+    ]
+  },
+  {
+    "title": "Financial Controller",
+    "category": "FINANCE",
+    "required_skills": [
+      "Financial Reporting",
+      "Accounting",
+      "Budgeting",
+      "Internal Controls",
+      "Excel"
+    ]
+  }
+]
