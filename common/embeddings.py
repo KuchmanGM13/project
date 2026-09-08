@@ -1,4 +1,5 @@
 from sentence_transformers import SentenceTransformer
+import numpy as np
 
 
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
@@ -11,7 +12,24 @@ tokenizer = model.tokenizer
 
 
 def split_into_chunks(text):
-    pass
+    token_ids = tokenizer.encode(
+        text,
+        add_special_tokens=False,
+        truncation=False
+    )
+
+    chunks = []
+
+    step = CHUNK_SIZE - CHUNK_OVERLAP
+
+    for start in range(0, len(token_ids), step):
+        chunk = token_ids[start:start + CHUNK_SIZE]
+        chunks.append(chunk)
+
+        if start + CHUNK_SIZE >= len(token_ids):
+            break
+
+    return chunks
     
 
 def embed_chunks(chunks):
@@ -28,12 +46,13 @@ def embed_chunks(chunks):
     return embeddings
 
 
-# TEST
-text = "Python developer " * 1000
+def embed_text(text):
+    chunks = split_into_chunks(text)
 
-chunks = split_into_chunks(text)
+    embeddings = embed_chunks(chunks)
 
-embeddings = embed_chunks(chunks)
+    mean_embedding = np.mean(embeddings, axis=0)
 
-print("Number of chunks:", len(chunks))
-print("Embedding shape:", embeddings.shape)
+    normalized_embedding = mean_embedding / np.linalg.norm(mean_embedding)
+
+    return normalized_embedding
