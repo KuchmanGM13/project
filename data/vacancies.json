@@ -1,101 +1,110 @@
 [
-  {
-    "title": "Backend Developer",
-    "category": "INFORMATION-TECHNOLOGY",
-    "required_skills": [
-      "Python",
-      "FastAPI",
-      "PostgreSQL",
-      "REST API",
-      "Git"
-    ]
-  },
-  {
-    "title": "Data Analyst",
-    "category": "INFORMATION-TECHNOLOGY",
-    "required_skills": [
-      "Python",
-      "SQL",
-      "Pandas",
-      "Excel",
-      "Data Visualization"
-    ]
-  },
-  {
-    "title": "DevOps Engineer",
-    "category": "INFORMATION-TECHNOLOGY",
-    "required_skills": [
-      "Docker",
-      "Kubernetes",
-      "CI/CD",
-      "Linux",
-      "AWS"
-    ]
-  },
-  {
-    "title": "Mechanical Engineer",
-    "category": "ENGINEERING",
-    "required_skills": [
-      "AutoCAD",
-      "SolidWorks",
-      "Mechanical Design",
-      "CAD",
-      "3D Modeling"
-    ]
-  },
-  {
-    "title": "Electrical Engineer",
-    "category": "ENGINEERING",
-    "required_skills": [
-      "Circuit Design",
-      "AutoCAD",
-      "MATLAB",
-      "Electrical Systems",
-      "PLC"
-    ]
-  },
-  {
-    "title": "Civil Engineer",
-    "category": "ENGINEERING",
-    "required_skills": [
-      "AutoCAD",
-      "Structural Design",
-      "Construction",
-      "Project Management",
-      "Civil Engineering"
-    ]
-  },
-  {
-    "title": "Financial Analyst",
-    "category": "FINANCE",
-    "required_skills": [
-      "Financial Modeling",
-      "Excel",
-      "Financial Analysis",
-      "Forecasting",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Accountant",
-    "category": "FINANCE",
-    "required_skills": [
-      "Accounting",
-      "Bookkeeping",
-      "Excel",
-      "Tax Preparation",
-      "Financial Statements"
-    ]
-  },
-  {
-    "title": "Financial Controller",
-    "category": "FINANCE",
-    "required_skills": [
-      "Financial Reporting",
-      "Accounting",
-      "Budgeting",
-      "Internal Controls",
-      "Excel"
-    ]
-  }
+    {
+        "title": "Backend Developer",
+        "category": "INFORMATION-TECHNOLOGY",
+        "required_skills": [
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "REST API",
+            "Git"
+        ],
+        "raw_text": "**Job Title:** Backend Developer  \n**Category:** Information Technology  \n\n**Job Description:**  \nWe are seeking an experienced and passionate Backend Developer to join our dynamic team. The ideal candidate will be responsible for designing and implementing robust server-side applications that enhance the overall user experience. You will work closely with front-end developers and other stakeholders to ensure seamless integration and optimal functionality.\n\n**Key Responsibilities:**  \n- Develop and maintain scalable and efficient backend systems using Python and FastAPI.  \n- Create and manage databases with PostgreSQL, ensuring data integrity and security.  \n- Design and implement RESTful APIs to facilitate efficient communication between the server and client-side applications.  \n- Collaborate with cross-functional teams to define, design, and ship new features.  \n- Write clean, maintainable code and conduct code reviews to ensure best practices.  \n- Utilize Git for version control, collaborating effectively within a team environment.\n\n**Required Skills:**  \n- Proficiency in Python and FastAPI for backend development.  \n- Strong experience with PostgreSQL database management.  \n- Familiarity with creating and consuming REST APIs.  \n- Proficient in using Git for version control.  \n\n**Qualifications:**  \n- Bachelor’s degree in Computer Science, Information Technology, or related field (or equivalent work experience).  \n- Minimum 3 years of relevant experience in backend development.  \n- Strong problem-solving skills and the ability to work independently as well as part of a team.  \n- Excellent oral and written communication skills.\n\n**What We Offer:**  \n- Competitive salary and benefits package.  \n- Opportunities for professional growth and development.  \n- A collaborative and inclusive work environment.  \n\nIf you are enthusiastic about technology and ready to take on new challenges in a growing company, we would love to hear from you! Please submit your resume and a cover letter detailing your experience and why you would be a great fit for our team."
+    },
+    {
+        "title": "Data Analyst",
+        "category": "INFORMATION-TECHNOLOGY",
+        "required_skills": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "Excel",
+            "Data Visualization"
+        ],
+        "raw_text": "**Job Title:** Data Analyst  \n**Category:** Information Technology  \n  \n**Location:** [Insert Location]  \n**Company:** [Insert Company Name]  \n  \n**About Us:**  \n[Insert a brief overview of the company, its mission, and the team culture.]  \n  \n**Job Description:**  \nWe are seeking a skilled Data Analyst to join our dynamic team. The ideal candidate will possess strong analytical skills and a passion for data-driven decision-making. You will be responsible for analyzing complex data sets, generating actionable insights, and collaborating with various teams to improve our products and services.  \n  \n**Key Responsibilities:**  \n- Collect, process, and analyze data using Python, SQL, and Pandas.  \n- Create and maintain dashboards to visualize data insights effectively.  \n- Work closely with stakeholders to identify business needs and opportunities for data analysis.  \n- Develop and maintain reports using Excel and visualization tools.  \n- Present findings and recommendations to team members and executives.  \n- Ensure data integrity and accuracy throughout the data analysis process.  \n  \n**Required Skills:**  \n- Proficiency in Python for data manipulation and analysis.  \n- Strong SQL skills for database querying and reporting.  \n- Experience with Pandas for data analysis.  \n- Advanced Excel skills, including formulas and pivot tables.  \n- Ability to create compelling data visualizations and dashboards.  \n  \n**Qualifications:**  \n- Bachelor’s degree in Computer Science, Data Science, Statistics, or a related field.  \n- [Insert years of experience or any relevant certifications if needed.]  \n- Strong problem-solving and analytical thinking skills.  \n- Excellent communication skills, both written and verbal.  \n  \n**What We Offer:**  \n- Competitive salary and benefits package.  \n- Opportunities for professional growth and development.  \n- A collaborative and innovative work environment.  \n  \nIf you are passionate about data and want to make a significant impact within our organization, we encourage you to apply.  \n\n**To Apply:**  \nPlease send your resume and a cover letter detailing your experience and skills to [Insert Contact Information].  \n  \n**Application Deadline:** [Insert Deadline]  \n  \nWe look forward to hearing from you!"
+    },
+    {
+        "title": "DevOps Engineer",
+        "category": "INFORMATION-TECHNOLOGY",
+        "required_skills": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Linux",
+            "AWS"
+        ],
+        "raw_text": "**Job Title:** DevOps Engineer  \n**Category:** Information Technology  \n\n**Location:** [Insert Location]  \n**Type:** [Full-Time/Part-Time/Contract]  \n**Salary:** [Insert Salary Range]  \n\n**About Us:**  \nAt [Company Name], we are committed to delivering innovative solutions that empower businesses and enhance customer experiences. We are seeking a talented and experienced DevOps Engineer to join our dynamic team of IT professionals. If you are passionate about infrastructure automation and have a knack for streamlining processes, we want to hear from you!\n\n**Key Responsibilities:**  \n- Collaborate with development and operations teams to improve and automate processes.  \n- Design and implement CI/CD pipelines for efficient software deployments.  \n- Manage and orchestrate containerized applications using Docker and Kubernetes.  \n- Monitor system performance and troubleshoot issues to ensure reliability and stability.  \n- Maintain and enhance AWS infrastructure to support application deployment and scaling.  \n- Implement best practices for security and compliance within the deployment environment.  \n- Create documentation and provide training for staff on DevOps practices and tools.  \n\n**Required Skills and Qualifications:**  \n- Proficiency in Docker and Kubernetes for container management.  \n- Experience implementing CI/CD pipelines.  \n- Strong knowledge of Linux systems administration.  \n- Familiarity with AWS services and architecture.  \n- Excellent problem-solving skills and ability to perform under pressure.  \n- Strong communication skills, both verbal and written.  \n\n**Preferred Qualifications:**  \n- [Insert any additional qualifications that may be considered beneficial, such as certifications or experience with additional tools/languages.]  \n\n**What We Offer:**  \n- A collaborative and inclusive work environment.  \n- Opportunities for professional growth and development.  \n- Competitive salary and benefits package.  \n- [List any unique perks or benefits your company offers, such as remote work options, flexible hours, etc.]  \n\nIf you are ready to take your career to the next level and make an impact in a fast-paced environment, apply today by sending your resume and cover letter to [Insert Application Email or Link].  \n\n**[Company Name] is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.**"
+    },
+    {
+        "title": "Mechanical Engineer",
+        "category": "ENGINEERING",
+        "required_skills": [
+            "CAD",
+            "SolidWorks",
+            "Mechanical Design",
+            "Manufacturing",
+            "GD&T"
+        ],
+        "raw_text": "**Job Title:** Mechanical Engineer  \n**Category:** Engineering  \n\n**Company Overview:**  \nAt [Company Name], we are committed to innovation and excellence in the engineering sector. We pride ourselves on delivering high-quality solutions that meet the needs of our clients. We are currently seeking a talented Mechanical Engineer to join our dynamic team and contribute to exciting projects that drive our mission forward.\n\n**Job Description:**  \nAs a Mechanical Engineer, you will be responsible for designing, developing, and testing mechanical systems and components. You will collaborate with cross-functional teams to ensure that our products meet specifications and quality standards. The ideal candidate will have a strong grasp of mechanical design principles and a passion for engineering innovation.\n\n**Key Responsibilities:**  \n- Conduct mechanical design tasks using CAD and SolidWorks to produce detailed design specifications and 3D models.  \n- Develop and test prototypes to validate designs and ensure functionality.  \n- Collaborate with manufacturing teams to implement designs and resolve any fabrication challenges.  \n- Utilize GD&T (Geometric Dimensioning and Tolerancing) standards to create accurate technical drawings.  \n- Analyze performance data and iterate on designs to achieve optimal results.  \n- Assist in project management by providing updates on progress and any potential issues.  \n- Maintain documentation of all designs and processes in accordance with company policies.\n\n**Required Skills:**  \n- Proficiency in CAD software and SolidWorks for mechanical design.  \n- Strong background in mechanical design principles and methodologies.  \n- Experience in manufacturing processes and materials.  \n- Familiarity with GD&T standards and their application in mechanical design.\n\n**Qualifications:**  \n- Bachelor’s degree in Mechanical Engineering or a related field.  \n- A minimum of [X years] experience in mechanical design or related roles.  \n- Strong problem-solving skills and attention to detail.  \n- Excellent communication and teamwork skills.\n\n**Why Join Us?**  \nAt [Company Name], you will be part of a collaborative team shaping the future of engineering. We offer competitive salaries, comprehensive benefits, and numerous opportunities for professional growth.  \n\n**Application Process:**  \nInterested candidates are encouraged to submit their resume and a cover letter detailing their relevant experience. We look forward to hearing from you!"
+    },
+    {
+        "title": "Electrical Engineer",
+        "category": "ENGINEERING",
+        "required_skills": [
+            "Circuit Design",
+            "PCB",
+            "MATLAB",
+            "Embedded Systems",
+            "Testing"
+        ],
+        "raw_text": "**Job Title:** Electrical Engineer  \n**Category:** Engineering  \n\n**Company Overview:**  \nJoin our innovative team at [Company Name], where we develop cutting-edge solutions in the field of electrical engineering. We pride ourselves on fostering a collaborative environment that encourages creativity and growth, making it an exciting place to advance your career.  \n\n**Position Overview:**  \nWe are seeking a talented and motivated Electrical Engineer to join our engineering team. The ideal candidate will contribute to various projects involving circuit design, PCB development, and embedded systems. You will work closely with multidisciplinary teams to deliver high-quality products that meet our clients’ needs.  \n\n**Key Responsibilities:**  \n- Design and develop circuits for various applications, ensuring functionality and performance.  \n- Create and test printed circuit boards (PCBs) using industry-standard tools.  \n- Utilize MATLAB for simulation and analysis of electrical systems.  \n- Develop and integrate embedded systems, focusing on reliability and efficiency.  \n- Conduct thorough testing and validation of designs to ensure compliance with standards and specifications.  \n- Collaborate with cross-functional teams to define project requirements and timelines.  \n- Document design processes and update project statuses as needed.  \n\n**Required Skills:**  \n- Proficiency in Circuit Design  \n- Experience with PCB design tools  \n- Strong knowledge of MATLAB for data analysis and modeling  \n- Familiarity with Embedded Systems principles and development  \n- Proven experience in Testing and validation processes  \n\n**Qualifications:**  \n- Bachelor’s degree in Electrical Engineering or a related field.  \n- 3+ years of relevant experience in electrical engineering roles.  \n- Excellent problem-solving skills and attention to detail.  \n- Strong communication and teamwork skills.  \n\n**What We Offer:**  \n- Competitive salary and benefits package.  \n- Opportunities for professional development and continuing education.  \n- A dynamic work environment with a focus on innovation.  \n\nIf you are a results-driven electrical engineer with a passion for design and development, we would love to hear from you. Apply today to join our team at [Company Name]!  \n\n**How to Apply:**  \nPlease submit your resume and cover letter outlining your experience and skills relevant to this position to [email address] by [application deadline].  \n\n[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees."
+    },
+    {
+        "title": "Civil Engineer",
+        "category": "ENGINEERING",
+        "required_skills": [
+            "AutoCAD",
+            "Structural Design",
+            "Construction",
+            "Project Management",
+            "Building Codes"
+        ],
+        "raw_text": "**Job Vacancy: Civil Engineer**  \n**Category:** Engineering  \n**Location:** [Location]  \n**Company:** [Company Name]  \n\n**About Us:**  \n[Company Name] is a leading firm in the construction and engineering sector, dedicated to delivering high-quality infrastructure projects. We are committed to innovation, sustainability, and excellence in engineering solutions. \n\n**Position Overview:**  \nWe are seeking a talented and experienced Civil Engineer to join our dynamic team. The ideal candidate will have a strong background in structural design and project management, with a thorough understanding of building codes and construction practices. This is a fantastic opportunity to work on a variety of exciting projects that shape communities and enhance urban infrastructure.  \n\n**Key Responsibilities:**  \n- Prepare, review, and modify project plans, drawings, and specifications using AutoCAD.  \n- Design and analyze structural components and systems for various projects.  \n- Oversee construction processes to ensure compliance with design specifications and safety standards.  \n- Manage project timelines, budgets, and resources effectively to ensure timely completion of projects.  \n- Evaluate and ensure adherence to local building codes and regulations.  \n- Collaborate with architects, contractors, and stakeholders to guarantee project success.  \n- Conduct site inspections and prepare progress reports.  \n\n**Required Skills:**  \n- Proficiency in AutoCAD and other engineering design software.  \n- Strong knowledge of structural design principles.  \n- Proven experience in construction management and project leadership.  \n- Familiarity with building codes and regulations.  \n- Excellent problem-solving, communication, and interpersonal skills.  \n\n**Qualifications:**  \n- Bachelor’s degree in Civil Engineering or related field.  \n- [X] years of relevant experience in civil engineering and construction management.  \n- Professional Engineer (PE) license is a plus.  \n\n**Why Join Us?**  \nAt [Company Name], we value creativity, professional growth, and collaboration. We offer competitive compensation packages, comprehensive benefits, and opportunities for continuous learning and advancement.  \n\n**How to Apply:**  \nInterested candidates are invited to submit their resume and cover letter detailing their qualifications and experience to [email/contact link].  \n\nJoin us and be a part of building the future!"
+    },
+    {
+        "title": "Financial Analyst",
+        "category": "FINANCE",
+        "required_skills": [
+            "Financial Modeling",
+            "Excel",
+            "Forecasting",
+            "Financial Statements",
+            "Data Analysis"
+        ],
+        "raw_text": "**Job Title: Financial Analyst**  \n**Category: Finance**  \n\n**Location:** [Location]  \n**Job Type:** [Full-time/Part-time/Contract]  \n\n**Company Overview:**  \n[Company Name] is a leading firm in the [industry] sector, dedicated to delivering innovative solutions to our clients. We are seeking a talented and detail-oriented Financial Analyst to join our growing team. If you are passionate about financial analysis and keen on making a significant impact, we want to hear from you!\n\n**Position Overview:**  \nAs a Financial Analyst, you will play a crucial role in our finance team by providing insightful analysis and support for financial decision-making. You will collaborate with various departments to analyze financial data and create comprehensive models to forecast future performance and assess potential opportunities.\n\n**Key Responsibilities:**  \n- Develop and maintain complex financial models to support strategic planning and decision-making.  \n- Analyze financial statements to ensure accuracy and compliance with industry standards.  \n- Prepare forecasts and budget plans that reflect the company’s growth objectives and financial health.  \n- Conduct thorough data analysis, identifying trends and patterns that will assist in improving financial performance.  \n- Present financial insights and recommendations to senior management in clear and concise reports.  \n- Collaborate with cross-functional teams to gather relevant data and communicate findings effectively.\n\n**Qualifications:**  \n- Bachelor’s degree in Finance, Accounting, Economics, or a related field.  \n- Proven experience as a Financial Analyst or in a similar role.  \n- Strong proficiency in financial modeling and advanced Excel skills.  \n- Excellent understanding of forecasting methodologies and financial statements.  \n- Demonstrated ability in data analysis and problem-solving.  \n- Strong attention to detail and exceptional analytical skills.  \n- Excellent communication and presentation abilities.  \n\n**What We Offer:**  \n- Competitive salary and benefits package.  \n- Opportunities for professional development and career advancement.  \n- Dynamic and supportive work environment.  \n- [Additional benefits, e.g., flexible working hours, remote work options, etc.]  \n\nIf you are ready to take the next step in your career and contribute to a team that values innovation and excellence, please submit your application, including your resume and a cover letter outlining your experience relevant to this role.  \n\n**[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.**"
+    },
+    {
+        "title": "Accountant",
+        "category": "FINANCE",
+        "required_skills": [
+            "GAAP",
+            "General Ledger",
+            "Accounts Payable",
+            "Accounts Receivable",
+            "Reconciliation"
+        ],
+        "raw_text": "**Job Title:** Accountant  \n**Category:** Finance  \n\n**Company Overview:**  \nWe are a dynamic and growing organization looking to strengthen our finance team with an experienced Accountant. Our company is dedicated to excellence and innovation in our industry, and we are eager to find a professional who shares our commitment to precision and detail.\n\n**Job Description:**  \nAs an Accountant, you will be responsible for managing financial transactions, ensuring compliance with GAAP standards, and maintaining accurate financial records. You will play a key role in our financial reporting process and support various accounting functions including Accounts Payable, Accounts Receivable, and Reconciliation.\n\n**Key Responsibilities:**  \n- Prepare and maintain financial statements in accordance with GAAP.  \n- Manage the General Ledger and ensure all transactions are accurately recorded.  \n- Process Accounts Payable and Accounts Receivable efficiently, ensuring timely payments and collections.  \n- Conduct monthly reconciliations and prepare reports to disclose accurate financial information.  \n- Assist in preparing budgets and forecasts, providing insights based on financial data.\n- Collaborate with internal teams to ensure smooth financial operations and address any discrepancies.\n- Support the audit process by providing necessary documentation and reports.\n\n**Qualifications:**  \n- Bachelor’s degree in Accounting, Finance, or a related field.  \n- Proven experience as an Accountant or in a similar role.  \n- Strong understanding of GAAP and accounting principles.  \n- Experience with General Ledger, Accounts Payable, and Accounts Receivable.  \n- Excellent analytical skills and attention to detail.  \n- Proficiency in accounting software and MS Excel.\n\n**Benefits:**  \n- Competitive salary and performance-based bonuses.  \n- Comprehensive health benefits and retirement plans.  \n- Opportunities for professional development and career advancement.  \n- A supportive and inclusive workplace culture.\n\n**How to Apply:**  \nIf you are a detail-oriented professional with a passion for finance and accounting, we would love to hear from you! Please submit your resume and cover letter outlining your qualifications and experience.  \n\n**Application Deadline:** [Insert Deadline]  \n\n**Location:** [Insert Location]  \n**Job Type:** [Insert Job Type: Full-time/Part-time/etc.]  \n\nJoin us in shaping the future of our financial operations! Your expertise can make a significant impact."
+    },
+    {
+        "title": "Financial Controller",
+        "category": "FINANCE",
+        "required_skills": [
+            "Financial Reporting",
+            "Budgeting",
+            "Internal Controls",
+            "Audit",
+            "Excel"
+        ],
+        "raw_text": "**Job Title: Financial Controller**  \n**Category: Finance**  \n\n**Location:** [Insert Location]  \n**Company:** [Insert Company Name]  \n\n**Overview:**  \nWe are seeking a highly skilled Financial Controller to join our dynamic finance team. The ideal candidate will be responsible for overseeing financial reporting, budgeting, and ensuring the integrity of our internal controls. This role is vital for maintaining financial health and driving strategic initiatives within the organization.\n\n**Key Responsibilities:**  \n- Prepare and present accurate financial reports in compliance with regulatory requirements and company policies.  \n- Develop and manage annual budgets and forecasts, ensuring alignment with the organization’s strategic goals.  \n- Oversee internal control processes and recommend improvements to enhance financial accuracy and mitigate risks.  \n- Coordinate and support audit processes, liaising with external auditors to ensure timely completion and resolution of findings.  \n- Utilize advanced Excel skills to analyze financial data, create reports, and develop financial models that support decision-making.\n- Collaborate with cross-functional teams to provide financial insights and support business initiatives.\n\n**Required Skills:**  \n- Proficient in Financial Reporting  \n- Expertise in Budgeting  \n- Strong Internal Controls knowledge  \n- Audit experience  \n- Advanced Excel skills  \n\n**Qualifications:**  \n- Bachelor’s degree in Finance, Accounting, or a related field; CPA or CFA certification preferred.  \n- Minimum of [X] years of experience in finance or accounting roles, with a focus on financial reporting and controls.  \n- Strong analytical and problem-solving skills, with the ability to work under pressure and meet deadlines.  \n- Excellent communication and interpersonal skills, with the ability to build relationships across the organization.\n\n**What We Offer:**  \n- Competitive salary and benefits package  \n- Opportunities for professional growth and development  \n- A collaborative and inclusive work environment  \n\nIf you are a detail-oriented financial professional with a passion for driving financial performance, we encourage you to apply. Join us in making a significant impact in our finance department!  \n\n**To Apply:**  \nPlease submit your resume and a cover letter detailing your relevant experience to [Insert Application Email/Link].  \n\n**Application Deadline:** [Insert Deadline]\n\n**[Insert Company Name]** is an equal opportunity employer and welcomes candidates from diverse backgrounds."
+    }
 ]
